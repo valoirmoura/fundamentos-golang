@@ -5,22 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3bfd7e8-b56f-4ea6-a0d2-c9439fb2d101" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18-Concorrencia/6-padroes-concorrencia/6.4-revisao/revisao.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19-testes-automatizados/19.1-introducao/endereco/enderecos.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19-testes-automatizados/19.1-introducao/endereco/enderecos_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19-testes-automatizados/19.1-introducao/introducao.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19-testes-automatizados/19.2-testes-avancado/formas/formas.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19-testes-automatizados/19.2-testes-avancado/formas/formas_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19-testes-automatizados/19.2-testes-avancado/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/fundamentos-golang.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fundamentos-golang.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20-JSON/1-Marshal/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20-JSON/2-Unmarshal/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21-HTTP/http.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22-HTML/html.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22-HTML/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,9 +69,14 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "rearrange.code.on.save": "true",
-    "settings.editor.selected.configurable": "com.goide.configuration.GoLibrariesConfigurableProvider"
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="\\wsl$\Ubuntu-20.04\home\valoir\go\src\fundamentos-golang\20-JSON\1-Marshal" />
+    </key>
+  </component>
   <component name="RunManager" selected="Go Test.TestTipoDeEndereco in fundamentos-golang/19-testes-automatizados/19.1-introducao/endereco">
     <configuration name="TestTipoDeEndereco in fundamentos-golang/19-testes-automatizados/19.1-introducao/endereco" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="fundamentos-golang" />
@@ -121,7 +116,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669513707960</updated>
-      <workItem from="1669513713250" duration="6565000" />
+      <workItem from="1669513713250" duration="7583000" />
+      <workItem from="1669685913328" duration="3427000" />
     </task>
     <servers />
   </component>
@@ -141,5 +137,9 @@
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
